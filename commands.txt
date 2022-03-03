@@ -1,0 +1,2 @@
+sequelize-auto -h <host> -d <database> -u <user> -x [password] -p [port] -e [dialect] -c [/path/to/config] -o [/path/to/models] -t [tableName] -l ts
+
